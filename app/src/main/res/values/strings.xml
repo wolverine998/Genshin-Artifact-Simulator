@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Genshin Artifact Simulator</string>
+    <string name="simulate_desc">Simulate</string>
+    <string name="empty_list">No artifacts generated yet!</string>
+    <string name="delete_artifact">Delete</string>
+    <string name="wipe_all">Wipe</string>
+    <string name="about_info">About</string>
+    <string name="select_theme">Change theme</string>
+    <string name="wipe_title">Wipe artifacts</string>
+    <string name="wipe_msg">Do you wanna wipe all artifacts?</string>
+</resources>
